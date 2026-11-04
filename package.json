@@ -1,0 +1,6 @@
+{
+  "name": "forever-faction-war",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
